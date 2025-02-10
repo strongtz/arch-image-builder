@@ -1,5 +1,5 @@
 name: Avaota C1
-target: ${device}
+target: avaota-c1
 arch: aarch64
 image:
 - type: disk
